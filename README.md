@@ -3,4 +3,4 @@
 </div>
 
 # Desafio-de-Projeto-Dio
-Desafio de Projeto para o Bootcamp Orangetech do Banco Inter
+Desafio de Projeto para o Bootcamp Orange tech + do Banco Inter
